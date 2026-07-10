@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="rtitle rdesc">
+<title id="rtitle">Route overlay for Dark Crew</title>
+<desc id="rdesc">Recommended route from Mesagoza to Dark Crew.</desc>
+<g opacity=".98"><polyline points="470,500 405,520 320,490 220,350 160,260" fill="none" stroke="#e63946" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900">
+  <rect x="412" y="442" width="116" height="38" rx="19" fill="#20232d" opacity=".9"/>
+  <text x="470" y="469" text-anchor="middle" fill="#fff">START</text>
+</g>
+<polygon points="160,242 166,254 180,254 169,262 174,278 160,268 146,278 151,262 140,254 154,254" fill="#ffb703" stroke="#20232d" stroke-width="4"/>
+<g font-family="Inter, Arial, sans-serif" font-size="21" font-weight="900">
+  <rect x="178" y="212" width="150" height="36" rx="18" fill="#ffffff" opacity=".95" stroke="#20232d" stroke-width="2"/>
+  <text x="253" y="236" text-anchor="middle" fill="#20232d">DESTINATION</text>
+</g>
+</svg>

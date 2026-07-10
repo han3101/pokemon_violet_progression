@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="rtitle rdesc">
+<title id="rtitle">Route overlay for False Dragon Titan</title>
+<desc id="rdesc">Recommended route from Mesagoza to False Dragon Titan.</desc>
+<g opacity=".98"><polyline points="470,500 410,480 340,240 260,180" fill="none" stroke="#e63946" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="260,180 210,135" fill="none" stroke="#2b7fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="18 12"/><polyline points="210,135 180,110" fill="none" stroke="#16a34a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16 10"/></g>
+<g font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900">
+  <rect x="412" y="442" width="116" height="38" rx="19" fill="#20232d" opacity=".9"/>
+  <text x="470" y="469" text-anchor="middle" fill="#fff">START</text>
+</g>
+<polygon points="180,92 186,104 200,104 189,112 194,128 180,118 166,128 171,112 160,104 174,104" fill="#ffb703" stroke="#20232d" stroke-width="4"/>
+<g font-family="Inter, Arial, sans-serif" font-size="21" font-weight="900">
+  <rect x="198" y="62" width="150" height="36" rx="18" fill="#ffffff" opacity=".95" stroke="#20232d" stroke-width="2"/>
+  <text x="273" y="86" text-anchor="middle" fill="#20232d">DESTINATION</text>
+</g>
+</svg>

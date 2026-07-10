@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="rtitle rdesc">
+<title id="rtitle">Route overlay for Quaking Earth Titan</title>
+<desc id="rdesc">Recommended route from Mesagoza to Quaking Earth Titan.</desc>
+<g opacity=".98"><polyline points="470,500 445,455" fill="none" stroke="#e63946" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="445,455 430,410 420,360" fill="none" stroke="#8b5cf6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 9"/></g>
+<g font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900">
+  <rect x="412" y="442" width="116" height="38" rx="19" fill="#20232d" opacity=".9"/>
+  <text x="470" y="469" text-anchor="middle" fill="#fff">START</text>
+</g>
+<polygon points="420,342 426,354 440,354 429,362 434,378 420,368 406,378 411,362 400,354 414,354" fill="#ffb703" stroke="#20232d" stroke-width="4"/>
+<g font-family="Inter, Arial, sans-serif" font-size="21" font-weight="900">
+  <rect x="438" y="312" width="150" height="36" rx="18" fill="#ffffff" opacity=".95" stroke="#20232d" stroke-width="2"/>
+  <text x="513" y="336" text-anchor="middle" fill="#20232d">DESTINATION</text>
+</g>
+</svg>

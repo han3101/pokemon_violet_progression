@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="rtitle rdesc">
+<title id="rtitle">Route overlay for Fighting Crew</title>
+<desc id="rdesc">Recommended route from Mesagoza to Fighting Crew.</desc>
+<g opacity=".98"><polyline points="470,500 560,485 610,350 500,220" fill="none" stroke="#e63946" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="500,220 420,170 360,140" fill="none" stroke="#111827" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 10"/></g>
+<g font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900">
+  <rect x="412" y="442" width="116" height="38" rx="19" fill="#20232d" opacity=".9"/>
+  <text x="470" y="469" text-anchor="middle" fill="#fff">START</text>
+</g>
+<polygon points="360,122 366,134 380,134 369,142 374,158 360,148 346,158 351,142 340,134 354,134" fill="#ffb703" stroke="#20232d" stroke-width="4"/>
+<g font-family="Inter, Arial, sans-serif" font-size="21" font-weight="900">
+  <rect x="378" y="92" width="150" height="36" rx="18" fill="#ffffff" opacity=".95" stroke="#20232d" stroke-width="2"/>
+  <text x="453" y="116" text-anchor="middle" fill="#20232d">DESTINATION</text>
+</g>
+</svg>

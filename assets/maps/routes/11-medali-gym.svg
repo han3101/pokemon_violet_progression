@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="rtitle rdesc">
+<title id="rtitle">Route overlay for Medali Gym</title>
+<desc id="rdesc">Recommended route from Mesagoza to Medali Gym.</desc>
+<g opacity=".98"><polyline points="470,500 410,480 380,410" fill="none" stroke="#e63946" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="380,410 360,330 340,240" fill="none" stroke="#8b5cf6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 9"/></g>
+<g font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900">
+  <rect x="412" y="442" width="116" height="38" rx="19" fill="#20232d" opacity=".9"/>
+  <text x="470" y="469" text-anchor="middle" fill="#fff">START</text>
+</g>
+<polygon points="340,222 346,234 360,234 349,242 354,258 340,248 326,258 331,242 320,234 334,234" fill="#ffb703" stroke="#20232d" stroke-width="4"/>
+<g font-family="Inter, Arial, sans-serif" font-size="21" font-weight="900">
+  <rect x="358" y="192" width="150" height="36" rx="18" fill="#ffffff" opacity=".95" stroke="#20232d" stroke-width="2"/>
+  <text x="433" y="216" text-anchor="middle" fill="#20232d">DESTINATION</text>
+</g>
+</svg>

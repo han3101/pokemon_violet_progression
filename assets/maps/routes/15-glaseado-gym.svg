@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="rtitle rdesc">
+<title id="rtitle">Route overlay for Glaseado Gym</title>
+<desc id="rdesc">Recommended route from Mesagoza to Glaseado Gym.</desc>
+<g opacity=".98"><polyline points="470,500 560,485 610,350 560,220" fill="none" stroke="#e63946" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><polyline points="560,220 535,130 500,70" fill="none" stroke="#16a34a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16 10"/></g>
+<g font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900">
+  <rect x="412" y="442" width="116" height="38" rx="19" fill="#20232d" opacity=".9"/>
+  <text x="470" y="469" text-anchor="middle" fill="#fff">START</text>
+</g>
+<polygon points="500,52 506,64 520,64 509,72 514,88 500,78 486,88 491,72 480,64 494,64" fill="#ffb703" stroke="#20232d" stroke-width="4"/>
+<g font-family="Inter, Arial, sans-serif" font-size="21" font-weight="900">
+  <rect x="518" y="22" width="150" height="36" rx="18" fill="#ffffff" opacity=".95" stroke="#20232d" stroke-width="2"/>
+  <text x="593" y="46" text-anchor="middle" fill="#20232d">DESTINATION</text>
+</g>
+</svg>
